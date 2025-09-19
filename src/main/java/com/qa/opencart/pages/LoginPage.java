@@ -36,6 +36,8 @@ public class LoginPage {
 //	private final By wishListLink = By.linkText("Wish List");
 //	private final By returnsLink = By.linkText("Returns");
 	
+	private final By shop = By.linkText("shop");
+	
 	private final By loginErrorMessg = By.cssSelector("div.alert.alert-danger.alert-dismissible");
 	
 	private static final Logger log = LogManager.getLogger(LoginPage.class);
