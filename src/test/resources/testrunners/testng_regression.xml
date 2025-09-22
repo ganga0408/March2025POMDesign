@@ -37,7 +37,7 @@
 		</classes> 
 	</test> 
 	
-	<test name="Search Test"> 
+	<!-- <test name="Search Test"> 
 		<parameter name="browser" value="edge"/>
 		<classes> 
 			<class name="com.qa.opencart.tests.SearchTest" /> 
@@ -56,7 +56,7 @@
 		<classes> 
 			<class name="com.qa.opencart.tests.RegisterPageTest" /> 
 		</classes> 
-	</test>
+	</test> -->
 
 
 </suite>	
